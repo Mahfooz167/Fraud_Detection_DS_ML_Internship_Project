@@ -1,6 +1,7 @@
 # Fraud_Detection_DS_ML_Internship_Project
 ![](https://resources.cdn.seon.io/uploads/2021/02/Fraud_Detection_Prevention_02_03_cover.png) 
 ![](https://miro.medium.com/v2/resize:fit:840/1*wTF-VoLrDujhRniONLSQeQ.jpeg)
+
 ![](https://chargebacks911.com/wp-content/uploads/2023/02/Fraud-Detection-blog.jpg)
 
 ## Introduction
