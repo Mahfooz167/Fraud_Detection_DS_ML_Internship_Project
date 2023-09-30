@@ -1,5 +1,6 @@
 # Fraud_Detection_DS_ML_Internship_Project
 ![](https://resources.cdn.seon.io/uploads/2021/02/Fraud_Detection_Prevention_02_03_cover.png) 
+![](https://us.123rf.com/450wm/pavelvinnik/pavelvinnik2004/pavelvinnik200400067/144781567-cyber-attack-crime-cryptocurrency-stealing-riskiness-mining-virus-hacker-burglar-avatar-on-computer.jpg?ver=6)
 ![](https://chargebacks911.com/wp-content/uploads/2023/02/Fraud-Detection-blog.jpg)
 
 ## Introduction
